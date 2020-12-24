@@ -12,6 +12,8 @@ location_names = ["LONDON",
                   "NEW YORK",
                   "TEL AVIV",
                   "MELBOURNE"]
+
+
 @pytest.mark.parametrize("location", location_names)
 def test_check_location_links_are_opened(location):
     helper.get_careers_url(browser)

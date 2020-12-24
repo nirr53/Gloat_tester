@@ -1,14 +1,14 @@
++------------------+
+|  Manual cases:   |
++------------------+
 
-
-
-Manual cases:
-Page is displayed as expected and headers (for locations, jobs etc) are displayed properly.
-All location  links are functioning properly
-For every location verify that the the drop-down filtered jobs by department / search string
-For the main page verify that the drop-down filtered jobs by location / department / open -search
-For every job, verify that that more text is displayed properly when key > pressed.
-For every job, verify that when extra text is opened you can email / close it. 
-Verify that the easy-helper on right button is opened as expected
-Verify that you can upload files to the easy-helper on right button is opened as expected
-Verify that the Resume-upload is functioning properly
-Verify the Home button is working
+1. Page is displayed as expected and headers (for locations, jobs etc) are displayed properly.
+2. All location  links are functioning properly
+3. For every location verify that the the drop-down filtered jobs by department / search string
+4. For the main page verify that the drop-down filtered jobs by location / department / open -search
+5. For every job, verify that that more text is displayed properly when key > pressed.
+6. For every job, verify that when extra text is opened you can email / close it. 
+7. Verify that the easy-helper on right button is opened as expected
+8. Verify that you can upload files to the easy-helper on right button is opened as expected
+9. Verify that the Resume-upload is functioning properly
+10. Verify the Home button is working

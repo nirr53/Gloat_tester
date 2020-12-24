@@ -2,6 +2,7 @@ import configparser
 
 input_file_name = "gloat_data.properties"
 
+
 class ConfigFile:
 
     def __init__(self):
