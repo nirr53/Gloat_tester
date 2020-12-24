@@ -1,12 +1,10 @@
 import pytest
 import requests
-import json
 
 from selenium import webdriver
 from actions import common_actions
 
 browser = webdriver.Chrome()
-
 browser.implicitly_wait(10)
 helper = common_actions()
 
