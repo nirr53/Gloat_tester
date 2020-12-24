@@ -20,3 +20,5 @@ Configuration:
 
 5. To run the tests set:
     python3.7 -m pytest --jira  -v -s test_gloat.py
+
+6. **Manual tests list is in /tests directory**
